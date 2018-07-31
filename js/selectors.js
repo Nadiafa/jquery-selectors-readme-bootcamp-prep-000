@@ -9,7 +9,7 @@
   }
   
   function ninjaBabySelector() {
-    
+    return $('')
   }
   
   function divSelector() {
@@ -23,13 +23,6 @@
 
 
 
-
-
-// 1) Selectors paragraphSelector() should select all paragraphs:
-// ReferenceError: paragraphSelector is not defined
-
-// 2) Selectors lastImageSelector() should return the last image:
-// ReferenceError: lastImageSelector is not defined
 
 // 3) Selectors ninjaBabySelector() should return the image of the ninja baby:
 // ReferenceError: ninjaBabySelector is not defined
