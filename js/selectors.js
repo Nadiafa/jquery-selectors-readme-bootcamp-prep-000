@@ -17,12 +17,8 @@
   }
   
   function firstListItem() {
-    
+    return $('ul #pic-list:first-child')
   }
-
-
-// 4) Selectors divSelector() should return two divs:
-// ReferenceError: divSelector is not defined
 
 // 5) Selectors firstListItem() should return the first list item in the unordered list:
 // ReferenceError: firstListItem is not defined
