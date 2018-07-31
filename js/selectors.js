@@ -5,10 +5,20 @@
   }
   
   function lastImageSelector() {
+    return paragraphSelector(img)
+  }
+  
+  function ninjaBabySelector() {
     
   }
   
-  fun
+  function divSelector() {
+    
+  }
+  
+  function firstListItem() {
+    
+  }
 
 
 
