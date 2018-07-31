@@ -1,9 +1,9 @@
 // declare your functions here...
-$(document).ready(function() {
+// $(document).ready(function() {
   function() {
     return $('p')
   }
-});
+// });
 
 
 
