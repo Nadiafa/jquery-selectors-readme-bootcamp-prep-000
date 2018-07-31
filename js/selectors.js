@@ -1,7 +1,8 @@
 // declare your functions here...
-$(document).ready(paragraphSelector() {
-  retrurn $('p')
-
+$(document).ready(function() {
+  function() {
+    return $('p')
+  }
 });
 
 
