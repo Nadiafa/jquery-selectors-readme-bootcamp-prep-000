@@ -1,3 +1,6 @@
 // declare your functions here...
-$(document).ready(
-  );
+// $(document).ready(
+
+
+
+// );
