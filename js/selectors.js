@@ -9,7 +9,7 @@
   }
   
   function ninjaBabySelector() {
-    return $('')
+    return $('#')
   }
   
   function divSelector() {
