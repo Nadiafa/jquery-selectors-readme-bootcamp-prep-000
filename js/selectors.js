@@ -4,7 +4,11 @@
     return $('p')
   }
   
-  function
+  function lastImageSelector() {
+    
+  }
+  
+  fun
 
 
 
