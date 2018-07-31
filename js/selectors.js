@@ -13,19 +13,13 @@
   }
   
   function divSelector() {
-    
+    return $('.')
   }
   
   function firstListItem() {
     
   }
 
-
-
-
-
-// 3) Selectors ninjaBabySelector() should return the image of the ninja baby:
-// ReferenceError: ninjaBabySelector is not defined
 
 // 4) Selectors divSelector() should return two divs:
 // ReferenceError: divSelector is not defined
