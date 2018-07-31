@@ -17,7 +17,7 @@
   }
   
   function firstListItem() {
-    return $('ul #pic-list:first-child')
+    return $('li #pic-list:first-child')
   }
 
 // 5) Selectors firstListItem() should return the first list item in the unordered list:
