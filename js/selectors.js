@@ -19,6 +19,3 @@
   function firstListItem() {
     return $('#pic-list li:first-child')
   }
-
-// 5) Selectors firstListItem() should return the first list item in the unordered list:
-// ReferenceError: firstListItem is not defined
