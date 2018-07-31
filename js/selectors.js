@@ -13,7 +13,7 @@
   }
   
   function divSelector() {
-    return $('.')
+    return $('.pics')
   }
   
   function firstListItem() {
